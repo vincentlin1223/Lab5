@@ -30,6 +30,7 @@ public class BankAccount {
         /*
          * Implement this function
          */
+        accountNumber = 0;
     }
 
     /*

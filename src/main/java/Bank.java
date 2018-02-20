@@ -29,6 +29,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        return false;
     }
 
     /**
@@ -45,6 +46,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        return false;
     }
 
     /**
@@ -64,6 +66,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        return false;
     }
 
     /**
@@ -89,6 +92,7 @@ public class Bank {
         /*
          * Implement this function
          */
+        return 0;
     }
 
     /**
